@@ -1,14 +1,21 @@
 body {
-    background: rgb(101, 101, 252)
+    margin-left: 100px;
+    margin-right: 100px;
+    background: rgb(20, 20, 53)
+    
 }
 
 h1{
     font-family: fantasy;
-    color:rgba(19, 15, 15)
+    color:rgb(221, 219, 219)
     
 }
 
 h2 {
 font-family: fantasy;
-color: rgb(19, 15, 15)
+color: rgb(221, 219, 219)
+}
+p{
+    font-size: 30px;
+    color:rgb(221, 219, 219)
 }
